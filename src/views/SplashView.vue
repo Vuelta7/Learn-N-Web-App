@@ -44,7 +44,7 @@ onMounted(() => {
   setTimeout(() => {
     clearInterval(interval)
     clearInterval(dotInterval)
-    router.push('/home') // Go to home
+    router.push('/login') // Go to home
   }, 3000)
 })
 
