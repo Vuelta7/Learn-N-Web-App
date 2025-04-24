@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'press';
+  src: url('public/fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+.font-press {
+  font-family: 'press';
+}
